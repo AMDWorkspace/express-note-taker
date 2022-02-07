@@ -24,5 +24,7 @@
 - THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## Screenshot
+![screenshot](https://github.com/AMDWorkspace/express-note-taker/blob/main/photos/Screen%20Shot%202022-02-07%20at%202.54.44%20PM.png)
 
 ## Link to deployed application
+- https://amdworkspace.github.io/express-note-taker/
