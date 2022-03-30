@@ -1,14 +1,25 @@
-# Note Taker Starter Code
+# Express Note Taker
+
+## Table of Contents
+
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Screenshot](#screenshot)
+- [Link to deployed application](#link-to-deployed-application)
 
 ## Description
+
 - An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file
 
 ## User Story
+
 - AS A small business owner
 - I WANT to be able to write and save notes
 - SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Acceptance Criteria
+
 - GIVEN a note-taking application
 - WHEN I open the Note Taker
 - THEN I am presented with a landing page with a link to a notes page
@@ -24,7 +35,9 @@
 - THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## Screenshot
+
 ![screenshot](https://github.com/AMDWorkspace/express-note-taker/blob/main/photos/Screen%20Shot%202022-02-07%20at%202.54.44%20PM.png)
 
 ## Link to deployed application
+
 - https://amdworkspace.github.io/express-note-taker/
