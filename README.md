@@ -36,7 +36,7 @@
 
 ## Screenshot
 
-![screenshot](https://github.com/AMDWorkspace/express-note-taker/blob/main/photos/Screen%20Shot%202022-02-07%20at%202.54.44%20PM.png)
+![screenshot](https://github.com/AMDWorkspace/express-note-taker/blob/main/photos/Screen%20Shot%202022-03-30%20at%201.50.36%20AM.png)
 
 ## Link to deployed application
 
